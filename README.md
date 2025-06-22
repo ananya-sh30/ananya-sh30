@@ -4,8 +4,6 @@
 
 I’m a Computer Science Engineering student driven by a passion for **UI/UX**, **full-stack development**, and combining creativity with technology.
 
-I focus on building practical, user-centric projects and enjoy exploring new tools, refining user experiences, and solving real-world problems through code. I'm also an active participant in hackathons and tech events — including being a **winner at the Smart India Hackathon 2024**, where I contributed to building an AI-driven legal research platform.
-
 I’m always looking for opportunities to learn, collaborate, and push the boundaries of what I can build.
 
 ---
