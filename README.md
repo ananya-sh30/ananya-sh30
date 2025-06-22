@@ -2,20 +2,15 @@
 
 ---
 
-### 📊 GitHub Stats
+I’m a Computer Science Engineering student driven by a passion for **UI/UX**, **full-stack development**, and combining creativity with technology.
 
-![Ananya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ananya-sh30&show_icons=true&theme=github_dark&hide_rank=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ananya-sh30&layout=compact&theme=github_dark)
+I focus on building practical, user-centric projects and enjoy exploring new tools, refining user experiences, and solving real-world problems through code. I'm also an active participant in hackathons and tech events — including being a **winner at the Smart India Hackathon 2024**, where I contributed to building an AI-driven legal research platform.
 
----
-
-I’m an Computer Science Engineering student driven by a passion for **UI/UX**, **full-stack development**, and blending creativity with technology.
-
-I love building projects that are both engaging and impactful. Whether it's exploring new tools, refining user experiences, or bringing ideas to life through code, I'm always up for a challenge. I also actively participate in hackathons and tech events, constantly learning and pushing my boundaries.
+I’m always looking for opportunities to learn, collaborate, and push the boundaries of what I can build.
 
 ---
 
-###  Tech Stack
+### 🛠 Tech Stack
 
 **Languages:** JavaScript, Python  
 **Frontend:** React.js, Tailwind CSS  
@@ -36,7 +31,7 @@ I love building projects that are both engaging and impactful. Whether it's expl
 - Implemented 3 financial calculators with ~95% accuracy to provide intuitive, personalized financial insights.
 
 #### 🔹 **Nyaypaksh** — SIH 2024 Winning Project  
-📅 Oct 2024 – Dec 2024  
+📅 Dec 2024  
 **Tech Stack:** React.js, Node.js, Express.js, PostgreSQL, Langchain, Hugging Face Generative AI APIs, Google Translate API, Google reCAPTCHA API  
 
 - Developed **Nyaypaksh**, an AI-powered legal research platform to streamline commercial dispute resolution.  
@@ -44,3 +39,10 @@ I love building projects that are both engaging and impactful. Whether it's expl
 
 
 ---
+
+### 📊 GitHub Stats
+
+![Ananya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ananya-sh30&show_icons=true&theme=github_dark&hide_rank=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ananya-sh30&layout=compact&theme=github_dark)
+
+
