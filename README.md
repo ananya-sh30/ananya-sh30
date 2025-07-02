@@ -6,6 +6,13 @@
 
 ###
 
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ananya-sh30&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ananya-sh30&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
+</div>
+
+###
+
 <h2 align="left">About Me</h2>
 
 ###
@@ -71,17 +78,5 @@
 ###
 
 <p align="left">SIH 2024 Winning Project<br><br>🗓️ Dec 2024<br>Tech Stack: React.js, Node.js, PostgreSQL, Langchain, Hugging Face GenAI APIs, Google Translate API, reCAPTCHA<br><br>Built a legal research platform supporting 500+ case precedents and multilingual access (5 languages).<br>Combined NLP with legal databases to streamline research for commercial court professionals.</p>
-
-###
-
-<h2 align="left">GitHub Stats</h2>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ananya-sh30&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ananya-sh30&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=ananya-sh30&theme=dracula&column=-1&row=2&margin-w=10&margin-h=12&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
-</div>
 
 ###
