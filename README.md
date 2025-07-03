@@ -1,8 +1,8 @@
-<h1 align="left">Hey! 👋 I'm Ananya Sharma</h1>
+<h1 align="left">Hello! 👋 I'm Ananya Sharma</h1>
 
 ###
 
-<p align="left">Hi! I’m Ananya , a passionate and curious developer currently pursuing B.Tech in CSE at Indira Gandhi Delhi Technical University for Women. I’m always looking to build meaningful, user-centric projects that blend creativity with real-world functionality.</p>
+<p align="left">Hi! I’m Ananya, a passionate and curious developer currently pursuing B.Tech in CSE at Indira Gandhi Delhi Technical University for Women. I’m always looking to build meaningful, user-centric projects that blend creativity with real-world functionality.</p>
 
 ###
 
