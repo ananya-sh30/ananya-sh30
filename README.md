@@ -1,66 +1,66 @@
 <h1 align="left">Hello! 👋 I'm Ananya Sharma</h1>
 
-###
-
-<p align="left">Hi! I’m Ananya, a passionate and curious developer currently pursuing B.Tech in CSE at Indira Gandhi Delhi Technical University for Women. I’m always looking to build meaningful, user-centric projects that blend creativity with real-world functionality.</p>
-
-###
+<p align="left">
+Hi! I’m Ananya, a passionate and curious developer currently pursuing B.Tech in Computer Science at IGDTUW (Indira Gandhi Delhi Technical University for Women). I love building user-centric projects that blend creativity with practical impact — especially when it means staying up debugging till 2 AM!
+</p>
 
 <div style="display: flex; align-items: flex-start; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ananya-sh30&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=ananya-sh30&show_icons=true&theme=dracula&hide_border=false&locale=en&hide_rank=true" height="200" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ananya-sh30&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="250" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ananya-sh30&show_icons=true&theme=dracula&hide_border=false&locale=en&hide_rank=true" height="250" alt="GitHub stats" />
 </div>
 
-###
+<br/>
 
-<h2 align="left">About Me</h2>
-
-###
+## About Me
 
 <p align="left">- 🧠 Love building things from scratch (and debugging till 2 AM)<br>- ⌨️ Typing console.log() like a life mantra<br>- 🎨 Passionate about UI/UX — thoughtful design is as important to me as functionality<br>- 📚 I’m driven by curiosity and the idea that even small tools can solve real problems</p>
 
-###
 
-<h2 align="left">Tech Stacks I've worked with</h2>
+<br/>
 
-**Languages:** HTML5, CSS3, JavaScript, Python, C++
-
-**Frontend:** React, Tailwind CSS
-
-**Backend:** Node.js, Express
-
-**Databases:** MongoDB, PostgreSQL
-
-**Tools & Other:** ESLint, Figma
+## 📁 Projects I've Worked On
 
 
-###
+#### 1. 🧠 RepoSensei – AI-Powered Developer Onboarding & Refactoring
 
-<h2 align="left">Projects I've worked on</h2>
+🗓️ June 2025  
+**Tech Stack**: MERN, OpenAI GPT-4o, GitHub API, ESLint, Socket.IO  
 
-###
+- Built intelligent onboarding + code quality tool using GPT for auto-suggestions, file-level context, and PR reviews.
+- Used `simple-git`, AST parsing, and AI code recommendations across 5+ active team projects.
 
-<h3 align="left">1. 📁  RepoSensei - Developer Productivity & Code Intelligence Platform</h3>
+---
 
-###
+#### 2. 💻 Schedulr++ – Interactive CPU Scheduling Visualizer
 
-<p align="left">🗓️ June 2025<br>Tech Stack: MERN, GitHub API, simple-git, OpenAI API (GPT-4o/mini), ESLint, AST Parsing, Socket.IO<br><br>- Built a full-stack AI tool for role-based onboarding, code quality analysis, and smart refactor suggestions.<br>- Integrated LLMs for contextual code understanding and task breakdowns; tested across 5+ real project repositories.</p>
+🗓️ July 2025  
+**Tech Stack**: React.js, Tailwind CSS, C++, WebAssembly (WASM), Vite  
 
-###
+- Developed a WebAssembly bridge to run compiled C++ scheduling algorithms (FCFS, SJF, Priority, RR) in-browser.
+- Implemented real-time Gantt chart rendering and ready queue visualization for 5+ algorithm modes.
 
-<h3 align="left">2. 📁  FiNova - Intelligent Precision Planning for Financial Growth</h3>
 
-###
+---
 
-<p align="left">🗓️ Feb 2025<br>Tech Stack: React.js, Tailwind CSS, Node.js, Express.js, PostgreSQL, NumPy, Pandas, TensorFlow, GPT-4<br><br>- Developed and deployed an AI-driven financial planner with personalized budget insights.<br>- Implemented 3 calculators with 95%+ accuracy to support smarter financial decisions.</p>
+#### 3. ⚖️ NyayPaksh – AI Legal Research Platform (SIH 2024 Winner)
 
-###
+🗓️ Dec 2024  
+**Tech Stack**: React, Node, Langchain, HuggingFace, PostgreSQL  
 
-<h3 align="left">3. 📁  NyayPaksh –  AI Legal Research for Faster Commercial Dispute Resolution</h3>
+- Enabled multilingual legal search across 500+ precedents for Indian commercial law.
+- Merged GenAI with legal NLP, Google Translate API, and reCAPTCHA for scalable secure access.
+  
+---
 
-###
+#### 4. 📊 FiNova – Intelligent Financial Growth Planner
 
-<p align="left">SIH 2024 Winning Project<br><br>🗓️ Dec 2024<br>Tech Stack: React.js, Node.js, PostgreSQL, Langchain, Hugging Face GenAI APIs, Google Translate API, reCAPTCHA<br><br>- Built a legal research platform supporting 500+ case precedents and multilingual access (5 languages).<br>- Combined NLP with legal databases to streamline research for commercial court professionals.</p>
+🗓️ Feb 2025  
+**Tech Stack**: React, Tailwind CSS, Node.js, PostgreSQL, TensorFlow, GPT-4  
 
-###
+- AI-driven financial planning with custom budget breakdowns and 3 calculators achieving 95%+ accuracy.
+- Integrated LLMs for goal-based advice and real-time adjustments.
+
+
+<br/>
+
+
