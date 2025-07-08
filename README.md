@@ -5,8 +5,8 @@ Hi! I’m Ananya, a passionate and curious developer currently pursuing B.Tech i
 </p>
 
 <div style="display: flex; align-items: flex-start; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ananya-sh30&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="250" alt="languages graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ananya-sh30&show_icons=true&theme=dracula&hide_border=false&locale=en&hide_rank=true" height="250" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ananya-sh30&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ananya-sh30&show_icons=true&theme=dracula&hide_border=false&locale=en&hide_rank=true" height="200" alt="GitHub stats" />
 </div>
 
 <br/>
