@@ -39,7 +39,7 @@ Hi! I’m Ananya, a passionate and curious developer currently pursuing B.Tech i
 ## 📁 Projects I've Worked On
 
 
-#### 1. 🧠 RepoSensei – AI-Powered Developer Onboarding & Refactoring
+### 1. 🧠 RepoSensei – AI-Powered Developer Onboarding & Refactoring
 
 🗓️ June 2025  
 **Tech Stack**: MERN, OpenAI GPT-4o, GitHub API, ESLint, Socket.IO  
@@ -49,7 +49,7 @@ Hi! I’m Ananya, a passionate and curious developer currently pursuing B.Tech i
 
 ---
 
-#### 2. 💻 Schedulr++ – Interactive CPU Scheduling Visualizer
+### 2. 💻 Schedulr++ – Interactive CPU Scheduling Visualizer
 
 🗓️ July 2025  
 **Tech Stack**: React.js, Tailwind CSS, C++, WebAssembly (WASM), Vite  
@@ -60,7 +60,7 @@ Hi! I’m Ananya, a passionate and curious developer currently pursuing B.Tech i
 
 ---
 
-#### 3. ⚖️ NyayPaksh – AI Legal Research Platform (SIH 2024 Winner)
+### 3. ⚖️ NyayPaksh – AI Legal Research Platform (SIH 2024 Winner)
 
 🗓️ Dec 2024  
 **Tech Stack**: React, Node, Langchain, HuggingFace, PostgreSQL  
@@ -70,7 +70,7 @@ Hi! I’m Ananya, a passionate and curious developer currently pursuing B.Tech i
   
 ---
 
-#### 4. 📊 FiNova – Intelligent Financial Growth Planner
+### 4. 📊 FiNova – Intelligent Financial Growth Planner
 
 🗓️ Feb 2025  
 **Tech Stack**: React, Tailwind CSS, Node.js, PostgreSQL, TensorFlow, GPT-4  
