@@ -51,7 +51,7 @@ Hi! I’m Ananya, a passionate and curious developer currently pursuing B.Tech i
   
 ---
 
-### 4. 📊 FiNova – Intelligent Financial Growth Planner
+### 5. 📊 FiNova – Intelligent Financial Growth Planner
 
 🗓️ Feb 2025  
 **Tech Stack**: React, Tailwind CSS, Node.js, PostgreSQL, TensorFlow, GPT-4  
