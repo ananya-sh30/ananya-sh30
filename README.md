@@ -11,8 +11,16 @@ Hi! I’m Ananya, a passionate and curious developer currently pursuing B.Tech i
 
 ## 📁 Projects I've Worked On
 
+### 1. ⚡ PhantomClick – AI-Driven Scam Link Forensics & Safe Inspection
 
-### 1. 🧠 RepoSensei – AI-Powered Developer Onboarding & Refactoring
+🗓️ March 2026  
+**Tech Stack**: MERN, Python, Playwright, Docker, Random Forest ML, Google Gemini API  
+
+- Engineered a secure Playwright + Docker sandbox to open and interact with suspicious links in isolation, capturing screenshots, DOM data, network logs, and redirect chains without exposing the user.
+- Integrated AI-driven scam detection (OCR + URL risk scoring) and automated forensic report generation with visual replay to transform threats into actionable cyber intelligence.
+---
+
+### 2. 🧠 RepoSensei – AI-Powered Developer Onboarding & Refactoring
 
 🗓️ June 2025  
 **Tech Stack**: MERN, OpenAI GPT-4o, GitHub API, ESLint, Socket.IO  
@@ -22,7 +30,7 @@ Hi! I’m Ananya, a passionate and curious developer currently pursuing B.Tech i
 
 ---
 
-### 2. 💻 Schedulr++ – Interactive CPU Scheduling Visualizer
+### 3. 💻 Schedulr++ – Interactive CPU Scheduling Visualizer
 
 🗓️ July 2025  
 **Tech Stack**: React.js, Tailwind CSS, C++, WebAssembly (WASM), Vite  
@@ -33,7 +41,7 @@ Hi! I’m Ananya, a passionate and curious developer currently pursuing B.Tech i
 
 ---
 
-### 3. ⚖️ NyayPaksh – AI Legal Research Platform (SIH 2024 Winner)
+### 4. ⚖️ NyayPaksh – AI Legal Research Platform (SIH 2024 Winner)
 
 🗓️ Dec 2024  
 **Tech Stack**: React, Node, Langchain, HuggingFace, PostgreSQL  
